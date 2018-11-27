@@ -1,0 +1,50 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+.color1{
+    width: 100%;
+    padding: 25px;
+    background-color: gray;
+    height: 100px;
+}
+.color2{
+    width: 100%;
+    background-color: white;
+    height: 150px;
+    font-family: Arial;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-top: 30px;   
+}
+.color3{
+    width: 100%;
+    background-color: rgb(43, 120, 146);
+    height: 100px;
+}
+.color4{
+    width: 100%;
+    background-color: lightgreen;
+    height: 100px;
+}
+.color5{
+    width: 100%;
+    background-color: rgb(130, 148, 130);
+    height: 100px;
+}
+.color6{
+    width: 100%;
+    background-color: rgb(172, 197, 116);
+    height: 100px;
+}
+
+.smallsquare {
+    height: 50px;
+    width: 50px;
+    margin: 0 50px;
+    display:inline-block; 
+    background-color: rgb(43, 120, 146);
+}
